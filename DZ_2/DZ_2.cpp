@@ -33,7 +33,7 @@ int main()
     cout << "Result = " << res << "\n\n";
     
     //4
-    double pi = 3.14;
+    const double pi = 3.14;
     double r, s, c;
     cout << "Enter R: ";
     cin >> r;
